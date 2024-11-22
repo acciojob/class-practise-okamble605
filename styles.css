@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+/* Class selector styling */
+.selector {
+    color: #00f;            /* Font color: blue */
+    background-color: #eee; /* Background color: light gray */
+    font-family: Arial, sans-serif; /* Font family: Arial */
+    font-size: 20px;        /* Font size: 20px */
+}
